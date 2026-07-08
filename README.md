@@ -16,5 +16,8 @@ Paste your list of gene ids and run query.
 Download the csv file generated and you will also obtain a more detailed GO analysis.  
 
 ## 4. Mapping back to the peptides: 
+Upload all your exact hits files and gOrth files.  
+This helps to map the arabidopsis hits to the peptides and generate lists of peptides common among all crop in certain GO categories like photosynthesis, stress tolerance, etc.  
+Generates csv files which contain a list of peptides, number of organisms it's present in and in which all genes organism-wise. 
 
 
